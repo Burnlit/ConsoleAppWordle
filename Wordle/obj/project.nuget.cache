@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LC66pz4ITjKcLHSIjpy4VIKeAbYc9fkKNzR/u7NPnp/ixcS0tb13c5qh9ieB+fNMnQL/dON6vge9SRzbqSsX/w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\t-lcaballes\\source\\repos\\SoftLanders-Wordle\\Wordle\\Wordle.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\t-lcaballes\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
